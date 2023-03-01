@@ -144,6 +144,7 @@ name: Build (cabal)
     - src/full/**
     - src/main/**
     - test/**.hs
+  workflow_dispatch:
   push:
     branches:
     - master
