@@ -36,3 +36,4 @@ Contributing to Agda
 * [Haskell style-guide](https://github.com/andreasabel/haskell-style-guide/blob/master/haskell-style.md)
 
 [agdawiki]: http://wiki.portal.chalmers.se/agda/pmwiki.php
+Push for ci run
